@@ -1,0 +1,14 @@
+{
+  "name": "kyu-online-shop",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "rsgilbert <gssenyonjo\n@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.3"
+  }
+}
